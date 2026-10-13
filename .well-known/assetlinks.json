@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "com.mahendra.linkvault", "sha256_cert_fingerprints": ["97656ECD114587006D129228FEC71F282ABF3A372D91473534DCED0EA51C7384"]}}]
